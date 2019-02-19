@@ -21,7 +21,7 @@
     "imagemin-gifsicle": "^6.0.0",
     "imagemin-mozjpeg": "^8.0.0",
     "imagemin-optipng": "^6.0.0",
-    "imagemin-pngquant": "^6.0.0",
+    "imagemin-pngquant": "github:philraj/imagemin-pngquant#fix/400",
     "imagemin-svgo": "^7.0.0",
     "imagemin-webp": "^5.0.0",
     "loader-utils": "^1.1.0",
